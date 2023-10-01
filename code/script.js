@@ -1,6 +1,6 @@
 // Step 1 - Welcome and introduction
 const userName = prompt("Step 1 - Welcome and introduction\n\nPlease enter your name:");
-alert(`Welcome, ${userName}! Let's start building your pizza order.`);
+alert(`Welcome, ${userName}! Let's start building your order.`);
 
 // Function to calculate the meal price
 function calculateMealPrice(foodChoice, subtypeChoice, age) {

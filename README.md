@@ -1,11 +1,11 @@
 # Project Name
 
-Replace this readme with your own information about your project. Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
+Food ordering app that allows users to enter their choices and get information with browser pop-up. It offers discount to the under 18 people and asks confirmation in the end.
 
 ## The problem
 
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
+I knew that I need to use functions to use loop to achieve my goal in this project. I checked and searched my previous works and online examples to apply. I planned to write the code with different examples to explore what I can do with JavaScript. I easily carried stored information according to the users answers via using functions. I used VSCODE and its' liveserver to check if I am doing correctly. I also tried the Technigo example many times.  
 
 ## View it live
 
-Have you deployed your project somewhere? Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about
+
