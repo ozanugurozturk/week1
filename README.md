@@ -8,4 +8,4 @@ I knew that I need to use functions to use loop to achieve my goal in this proje
 
 ## View it live
 
-https://ozanugurozturkweek1project.netlify.app/
+https://main--melodious-meerkat-986ad7.netlify.app/
